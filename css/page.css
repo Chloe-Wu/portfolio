@@ -93,7 +93,7 @@ header.portfolio {
 }
 
 #backme header.portfolio {
-  background-image: url("images/fittt.jpg");
+  background-image: url("../images/fittt.jpg");
 }
 
 #backme nav .nav-right ul li a {
