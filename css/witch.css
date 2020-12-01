@@ -3,7 +3,7 @@
 .css_lab{
 	width:100%;
 	height:100%;
-	background:#224;
+
 }
 .witch{
 	width:100px;
@@ -12,8 +12,8 @@
 	top:50%;
 	left:50%;
 	margin:-60px;
-	-webkit-transform:scale(1);
-	    -ms-transform:scale(1);
+	-webkit-transform:scale(3);
+	    -ms-transform:scale(3);
 	        transform:scale(3);
 }
 .witch:before{
