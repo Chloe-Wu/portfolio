@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="287" viewBox="0 0 1280 287">
+  <defs>
+    <clipPath id="clip-Web_1280_1">
+      <rect width="1280" height="287"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1280_1" data-name="Web 1280 – 1" clip-path="url(#clip-Web_1280_1)">
+    <rect width="1280" height="287" fill="#3aa859"/>
+    <path id="Path_6" data-name="Path 6" d="M60.082,412,42.874,373.8l17.208-38.2H94.5l17.208,38.2L94.5,412Z" transform="translate(571.375 -265.026)" fill="#3aa859"/>
+    <g id="Group_12" data-name="Group 12" transform="translate(587.04 78.068)">
+      <g id="Group_11" data-name="Group 11" transform="translate(0 0)">
+        <g id="Group_10" data-name="Group 10">
+          <g id="Group_9" data-name="Group 9">
+            <path id="Path_7" data-name="Path 7" d="M123.532,378.718l14.34,16.331-14.34,16.334-14.34-16.334Z" transform="translate(-31.951 -334.76)" fill="#fff" opacity="0.5"/>
+            <path id="Path_8" data-name="Path 8" d="M89.615,397.458l-.052-.055,14.347-16.331,14.337-16.34,14.341,16.34-4.946,5.632.055.055-14.346,16.331L99.014,419.425,84.67,403.091Z" transform="translate(-46.051 -342.801)" fill="#fff" opacity="0.75"/>
+            <path id="Path_9" data-name="Path 9" d="M74.493,394.765l14.34-16.331L103.174,362.1l.024.025,9.934-11.317,14.343,16.331-14.343,16.334L98.8,399.807l-.025-.025L88.833,411.1l-14.34,16.334L60.149,411.1Z" transform="translate(-60.149 -350.807)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="MERCER_ISLAND_TELECOM_LLC" data-name="MERCER ISLAND
+TELECOM, LLC" transform="translate(477.614 178.208)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.075em"><tspan x="93.066" y="17">MERCER ISLAND</tspan><tspan x="101.938" y="41">TELECOM, LLC</tspan></text>
+  </g>
+</svg>
