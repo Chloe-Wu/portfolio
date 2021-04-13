@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: yiweiwu.design
+Token: f089a1658164b53723320013d4cf6982b3ee6dfd3e4ef2cbfecc0aca77d3de07
