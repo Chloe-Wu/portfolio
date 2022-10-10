@@ -39,7 +39,7 @@ a {
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover {
-    text-decoration: underline;
+    text-decoration:none;
     color: black; }
   a:focus, a:active {
     outline: none; }
